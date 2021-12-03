@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KSourasish
-- 👀 I’m interested in mathematics and theoretical physics.
+- 👀 I’m interested in mathematics and physics.
 - 🌱 I’m currently learning mathematics at IISER Kolkata.
 - 📫 sk19ms052@iiserkol.ac.in
 
